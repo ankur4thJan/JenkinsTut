@@ -8,6 +8,7 @@ class JenkinsTutApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Dummy log");
 	}
 
 }
